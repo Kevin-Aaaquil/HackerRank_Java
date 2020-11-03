@@ -1,3 +1,7 @@
+/*To input a array and its size and print sum...EasyPeasy*/
+
+
+
 import java.util.*;
 
 class SimpleArraySum
