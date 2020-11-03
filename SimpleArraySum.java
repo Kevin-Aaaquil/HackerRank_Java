@@ -1,6 +1,6 @@
 /*To input a array and its size and print sum...EasyPeasy*/
 
-
+// Scanner class used
 
 import java.util.*;
 
